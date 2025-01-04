@@ -16,6 +16,7 @@ I am currently working on improving my skills in **Full Stack Development** and 
 - **B.E. in Computer Science**, **PSG College of Technology** (3rd Year)
 
 ### **Projects**
+- **SpotWise**: Mobile Based APP that connects the people who seeks a service and who provides a service
 - **CountriQ**: A fun quiz platform that tests knowledge of world flags and countries.
 - **Turnout**: An online voting app that ensures secure and anonymous voting.
 

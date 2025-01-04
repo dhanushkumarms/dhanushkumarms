@@ -29,9 +29,7 @@ I am currently working on improving my skills in **Full Stack Development** and 
 Feel free to reach out for collaborations or to discuss interesting projects!  
 - Email: [dhanushkumarms12@gmail.com]
 - LinkedIn: [https://www.linkedin.com/in/dhanushkumarms/]  
-- GitHub: [https://github.com/dhansuhkumarms]  
-- Portfolio:
-
+- GitHub: [https://github.com/dhansuhkumarms] 
 ---
 
 Looking forward to connecting and creating impactful projects together!

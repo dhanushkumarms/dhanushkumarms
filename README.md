@@ -13,7 +13,7 @@ Hello! I’m **Dhanushkumar M**, a passionate **Web Developer**, **Full Stack De
 I am currently working on improving my skills in **Full Stack Development** and building real-world projects. I am also exploring **AI** and **Machine Learning** to enhance my problem-solving approach.
 
 ### **Education**
-- **B.E. in Computer Science**, **PSG College of Technology** (3rd Year)
+- **B.E. in Computer Science**, **PSG College of Technology** (3rd Year , 6th Semester)
 
 ### **Projects**
 - **SpotWise**: Mobile Based APP that connects the people who seeks a service and who provides a service

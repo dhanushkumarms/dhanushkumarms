@@ -7,7 +7,7 @@ Hello! I’m **Dhanushkumar M**, a passionate **Web Developer**, **Full Stack De
 - **UI/UX Design**: Figma, Adobe XD, Wireframing, Prototyping
 - **Backend Development**: Express.js, REST APIs, Databases (MySQL, MongoDB)
 - **3D Modeling & Animation**: Blender, Cinema 4D
-- **Software Engineering**: Agile, Version Control (Git), Testing
+- **Software Engineering**: Agile, Version Control (Git), Testing and Quality Assurance
 
 ### **Current Focus**
 I am currently working on improving my skills in **Full Stack Development** and building real-world projects. I am also exploring **AI** and **Machine Learning** to enhance my problem-solving approach.

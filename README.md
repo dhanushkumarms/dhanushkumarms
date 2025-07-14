@@ -19,7 +19,6 @@
 - **Web Development**: HTML, CSS (Tailwind, Bootstrap), JavaScript (React, Node, Express)  
 - **Backend & Databases**: MERN Stack, MySQL, MongoDB, JWT, WebSockets  
 - **Tools & Frameworks**: Figma, GitHub, Jupyter Notebooks, Pandas, NumPy, Scikit-learn  
-- **Other Skills**: Event Management, Multitasking  
 
 ---
 

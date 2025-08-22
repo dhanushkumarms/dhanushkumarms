@@ -1,40 +1,42 @@
-# Dhanushkumar M - Computer Science Student & Full-Stack Developer
----
+# 👋 Hi, I’m Dhanushkumar M  
 
-👋 Hi, I’m **Dhanushkumar M**, a Computer Science undergraduate from **PSG College of Technology**, Coimbatore.  
-I’m passionate about crafting full-stack applications, designing user-focused interfaces, and engineering software solutions that create meaningful impact.
+🚀 **Computer Science Student | Full-Stack Developer | Tech Enthusiast**  
 
----
-
-💻 Passionate about full-stack development, software engineering, and user-centric web design  
-🌐 Actively contributing to impactful projects that blend innovation with societal relevance  
-🤝 Keen on learning, collaboration, and leveraging technology to solve real-world problems  
+I’m an undergraduate at **PSG College of Technology, Coimbatore**, passionate about building scalable applications, user-focused interfaces, and intelligent systems that create meaningful impact. My work bridges **full-stack development, AI/ML integration, and cloud computing**, with an emphasis on solving real-world problems through technology.  
 
 ---
 
-## 🚀 Skills
+## 💡 About Me  
+- 💻 Strong expertise in **Full Stack Web Development** and **Software Engineering**  
+- 🌐 Skilled at designing **user-centric interfaces** and **scalable systems**  
+- 🤝 Active in **collaborative projects** blending innovation with societal relevance  
+- 🔍 Interested in **DSA, AI/ML, Cloud Computing, and UI/UX Design**  
+- 🎯 Focused on **problem-solving, agile teamwork, and impactful solutions**  
 
-### 🧑‍💻 Programming Languages  
-- Java  
-- Python  
-- C  
+---
+
+## 🛠️ Technical Skills  
+
+### 🧑‍💻 Programming  
+- C, Python, Java, SQL  
 
 ### 🌐 Web Development  
-- HTML, CSS (Tailwind CSS, Bootstrap)  
-- JavaScript  
+- HTML, CSS (Tailwind, Bootstrap), JavaScript  
 - React.js, Node.js, Express.js  
 
-### 🗄️ Backend & Databases  
-- MERN Stack (MongoDB, Express, React, Node)  
-- MySQL, MongoDB  
-- JWT Authentication  
-- WebSockets  
+### ⚙️ Frameworks & Tools  
+- ASP.NET Core, Flask  
+- Git & GitHub, VS Code, Postman, Figma  
 
-### 🧰 Tools & Frameworks  
-- Git & GitHub  
-- Figma (UI/UX Design)  
-- Jupyter Notebooks  
+### 🗄️ Databases & Cloud  
+- MongoDB, MySQL  
+- Azure, AWS  
+- JWT Authentication, WebSockets  
+
+### 📊 Data & AI/ML  
 - Pandas, NumPy, Scikit-learn  
+- Jupyter Notebooks  
+
 
 ---
 

@@ -34,8 +34,8 @@ I’m an undergraduate at **PSG College of Technology, Coimbatore**, passionate 
 - JWT Authentication, WebSockets  
 
 ### 📊 Data & AI/ML  
-- Pandas, NumPy, Scikit-learn  
-- Jupyter Notebooks  
+- Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib  
+- Google Colab, Jupyter Notebooks  
 
 
 ---

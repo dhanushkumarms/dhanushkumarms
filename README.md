@@ -37,7 +37,6 @@ I’m an undergraduate at **PSG College of Technology, Coimbatore**, passionate 
 - Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib  
 - Google Colab, Jupyter Notebooks  
 
-
 ---
 
 ## 📫 Contact Me

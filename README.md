@@ -4,7 +4,6 @@
 
 I’m an undergraduate at **PSG College of Technology, Coimbatore**, passionate about building scalable applications, user-focused interfaces, and intelligent systems that create meaningful impact. My work bridges **full-stack development, AI/ML integration, and cloud computing**, with an emphasis on solving real-world problems through technology.  
 
----
 
 ## 💡 About Me  
 - 💻 Strong expertise in **Full Stack Web Development** and **Software Engineering**  
@@ -13,7 +12,6 @@ I’m an undergraduate at **PSG College of Technology, Coimbatore**, passionate 
 - 🔍 Interested in **DSA, AI/ML, Cloud Computing, and UI/UX Design**  
 - 🎯 Focused on **problem-solving, agile teamwork, and impactful solutions**  
 
----
 
 ## 🛠️ Technical Skills  
 
@@ -70,7 +68,6 @@ I’m an undergraduate at **PSG College of Technology, Coimbatore**, passionate 
 
 
 
----
 
 ## 📫 Contact Me  
 
@@ -78,7 +75,5 @@ I’m an undergraduate at **PSG College of Technology, Coimbatore**, passionate 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dhanushkumarms-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanushkumarms/)  
 [![GitHub](https://img.shields.io/badge/GitHub-dhanushkumarms-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhanushkumarms)  
 
-
----
 
 🎯 Looking forward to collaborating and building meaningful, impactful projects together!
